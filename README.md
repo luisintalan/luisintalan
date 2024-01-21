@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @luisintalan
-- 👀 I have a strong passion for data analysis. using SQL, Power BI, Python and R.
+ # Check out my [Data Analyst Portfolio!](https://github.com/luisintalan/data-analyst-portfolio)
+- 👋 Hi, I’m Luis.
+- 👀 I have a strong passion for data analysis. using SQL, Power BI, Python.
 - 🌱 I’m currently studying Informaton Systems @ UNSW.
 - 📫 Contact me at - luisrdintalan@gmail.com
+
+
 
 <!---
 luisintalan/luisintalan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
