@@ -1,4 +1,4 @@
- # Check out my [Data Analyst Portfolio!](https://github.com/luisintalan/data-analyst-portfolio)
+ # Check out my [Data Analytics Portfolio!](https://github.com/luisintalan/data-analyst-portfolio)
 - 👋 Hi, I’m Luis.
 - 👀 I have a strong passion for data analysis. using SQL, Power BI, Python.
 - 🌱 I’m currently studying Informaton Systems @ UNSW.
